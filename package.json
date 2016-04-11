@@ -1,0 +1,19 @@
+{
+  "name": "v-at",
+  "version": "1.0.0",
+  "description": "Find nested keys in json objects with null / undefined checks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "object",
+    "keys",
+    "nested",
+    "keys",
+    "chain"
+  ],
+  "author": "Varun Pal",
+  "license": "ISC"
+}
