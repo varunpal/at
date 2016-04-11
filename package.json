@@ -1,6 +1,10 @@
 {
   "name": "v-at",
   "version": "1.0.0",
+  "repository" : {
+    "type": "git", 
+    "url": "https://github.com/varunpal/at"
+  },
   "description": "Find nested keys in json objects with null / undefined checks.",
   "main": "index.js",
   "scripts": {
