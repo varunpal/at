@@ -9,7 +9,7 @@ npm install v-at
 ### Example
 
 ```javascript
-var at = require('at');
+var at = require('v-at');
 
 var object = {
   a: 10,
